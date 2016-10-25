@@ -1,1 +1,1 @@
-# knockoutjs
+# knockoutjs fuzzy search example
